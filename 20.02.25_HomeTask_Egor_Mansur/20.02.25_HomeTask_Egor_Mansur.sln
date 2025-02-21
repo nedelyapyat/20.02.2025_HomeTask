@@ -5,8 +5,6 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.02.25_HomeTask_Egor_Mansur", "20.02.25_HomeTask_Egor_Mansur\20.02.25_HomeTask_Egor_Mansur.csproj", "{13D0781E-2583-4FB6-B319-7DC36EB005D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeDriverTest1", "EdgeDriverTest1\EdgeDriverTest1.csproj", "{4170F249-7A7A-4DD0-9163-6A3A2844554E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{13D0781E-2583-4FB6-B319-7DC36EB005D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D0781E-2583-4FB6-B319-7DC36EB005D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D0781E-2583-4FB6-B319-7DC36EB005D0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4170F249-7A7A-4DD0-9163-6A3A2844554E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4170F249-7A7A-4DD0-9163-6A3A2844554E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4170F249-7A7A-4DD0-9163-6A3A2844554E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4170F249-7A7A-4DD0-9163-6A3A2844554E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
