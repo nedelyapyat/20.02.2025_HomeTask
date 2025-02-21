@@ -1,3 +1,4 @@
+using System.Numerics;
 using static System.Console;
 
 namespace _20._02._25_HomeTask_Egor_Mansur
@@ -19,46 +20,46 @@ namespace _20._02._25_HomeTask_Egor_Mansur
                             _1_EvenOdd.Execute();
                             break;
                         case 2:
-                            SymbolAnalysis.Execute();
+                            _2_SymbolAnalysis.Execute();
                             break;
                         case 3:
-                            StringToNumber.Execute();
+                            _3_StringToNumber.Execute();
                             break;
                         case 4:
-                            SumNumFrom1toN.Execute();
+                            _4_SumNumFrom1toN.Execute();
                             break;
                         case 5:
-                            NumbersProductWithWhile.Execute();
+                            _5_NumbersProductWithWhile.Execute();
                             break;
                         case 6:
-                            ExplicitImplicitTypeConversion.Execute();
+                            _6_Explicit_ImplicitTypeConversion.Execute();
                             break;
                         case 7:
-                            OverflowCheck.Execute();
+                            _7_OverflowCheck.Execute();
                             break;
                         case 8:
-                            ArrayMaxValue.Execute();
+                            _8_ArrayMaxValue.Execute();
                             break;
                         case 9:
-                            BitOperations.Execute();
+                            _9_BitOperations.Execute();
                             break;
                         case 10:
-                            SimpleCalculatorOnSwitch.Execute();
+                            _10_SimplrCalculatorOnSwitch.Execute();
                             break;
                         case 11:
-                            BinaryStringToDecimalNum.Execute();
+                            _11_BinaryStringToDecimalNum.Execute();
                             break;
                         case 12:
-                            ValidatingDoWhileInput.Execute();
+                            _12_ValidatingDoWhileInput.Execute();
                             break;
                         case 13:
-                            PatternMatching.Execute();
+                            _13_PatternMatching.Execute();
                             break;
                         case 14:
-                            MultiplicationTable.Execute();
+                            _14__MultiplicationTable.Execute();
                             break;
                         case 15:
-                            StringToDateTime.Execute();
+                            _15_FromStringToDateTime.Execute();
                             break;
                         default:
                             WriteLine("Некорректный номер задания.");
